@@ -1,0 +1,161 @@
+no,model,tahun,harga,transmisi,jarak_tempuh,bahan_bakar,pajak,mpg,ukuran_mesin
+1,Mitsubishi,1870,290000000,Manual,27499,Petrol/Gasoline/Bensin,1800000,28,1.8
+2,Honda civic type R,2022,400000000,Manual,20000,Diesel/Solar,150000,25,1.2
+3,Toyota Innova V,2017,370000000,Manual,5000000,Petrol/Gasoline/Bensin,2000000,28,1.8
+4,Toyota Agya,2020,136000000,Manual,24089,Petrol/Gasoline/Bensin,1725250,20,1
+5,Toyota Agya,2017,200000000,Manual,19400,Petrol/Gasoline/Bensin,1200000,22,1.2
+6,Toyota Rush,2022,280000000,Manual,30063,Petrol/Gasoline/Bensin,145000,28,1.8
+7,Daihatsu Ayla,2014,117000000,Manual,68000,Petrol/Gasoline/Bensin,1000000,22,1
+8,Mitsubishi Mirage,2012,173000000,Automatic,150000,Petrol/Gasoline/Bensin,2400000,20,1.2
+9,Toyota Avanza G,2010,180000000,Manual,20810,Petrol/Gasoline/Bensin,200000,26,1.6
+10,Toyota Inova,2012,200000000,Manual,12000,Petrol/Gasoline/Bensin,1300000,33,2.3
+11,BMW 3X13,2023,125000000,Semi-Auto,25000,Petrol/Gasoline/Bensin,500000,23,1.3
+12,Toyota Supra mk4,2002,2147483647,Manual,1020,Petrol/Gasoline/Bensin,8000000,40,3
+13,Daihatsu Gran Max,2018,200000000,Manual,149000,Petrol/Gasoline/Bensin,3000000,22,1.5
+14,Daihatsu Xenia ,2017,130000000,Manual,227000,Petrol/Gasoline/Bensin,1500000,25,1.3
+15,Mitsubishi Colt T120 SS,2018,109000000,Manual,280000,Petrol/Gasoline/Bensin,1563000,22,1.5
+16,Toyota Avanza ,2012,105000000,Manual,28000,Petrol/Gasoline/Bensin,3500000,25,1.5
+17,Toyota Yaris S,2015,147,Manual,110000,Petrol/Gasoline/Bensin,1209500,25,1.5
+18,Toyota Avanza,2012,105000000,Manual,109000,Petrol/Gasoline/Bensin,2989000,23,1.3
+19,Toyota Avanza,2014,157000000,Manual,120000,Petrol/Gasoline/Bensin,2800000,23,1.3
+20,Honda Brio,2018,128000000,Manual,85700,Petrol/Gasoline/Bensin,2000000,25,1.2
+21,Honda Brio E,2016,129000000,Semi-Auto,75438,Petrol/Gasoline/Bensin,2000000,25,1.3
+22,Toyota Avanza,2012,105000000,Manual,10000,Petrol/Gasoline/Bensin,3500000,23,1.3
+23,Suzuki Ertiga GL DOUBLE BLOWER,2013,156000000,Manual,180000,Petrol/Gasoline/Bensin,3880000,24,1.4
+24,Daihatsu Ayla,2016,87000000,Manual,10000,Petrol/Gasoline/Bensin,1371000,22,1
+25,Suzuki Ertiga GL ,2012,108000000,Manual,60000,Petrol/Gasoline/Bensin,3507000,24,1.4
+26,Toyota Kijang Innova,2015,177000000,Manual,66781,Petrol/Gasoline/Bensin,4000000,30,2
+27,Suzuki Ertiga GL,2019,164000000,Manual,50000,Petrol/Gasoline/Bensin,3507000,24,1.4
+28,Honda Jazz,2013,125000000,Manual,120000,Petrol/Gasoline/Bensin,2000000,22,1.5
+29,Toyota Fortuner ,2018,379000000,Automatic,45000,Diesel/Solar,4000000,34,2.4
+30,Nissan Grand Livina,2013,287000000,Automatic,66000,Petrol/Gasoline/Bensin,2500000,25,1.5
+31,Daihatsu Ayla,2017,134000000,Manual,58074,Petrol/Gasoline/Bensin,1371000,22,1
+32,Toyota Avanza,2021,189000000,Manual,40000,Petrol/Gasoline/Bensin,2800000,25,1.5
+33,Daihatsu Ayla,2017,134000000,Manual,21542,Petrol/Gasoline/Bensin,1371000,25,1.2
+34,Toyota Agya,2021,170390000,Semi-Auto,47300,Petrol/Gasoline/Bensin,1500000,22,1.2
+35,Daihatsu Ayla,2019,97000000,Manual,5000,Petrol/Gasoline/Bensin,1371000,25,1.2
+36,Daihatsu Xenia ,2017,125000000,Manual,52580,Petrol/Gasoline/Bensin,1800000,25,1.3
+37,Toyota Calya ,2019,136000000,Manual,45000,Petrol/Gasoline/Bensin,2000000,22,1.2
+38,Toyota Yaris G,2014,140000000,Manual,75000,Petrol/Gasoline/Bensin,3250000,25,1.5
+39,Honda Brio Satya E,2016,110000000,Manual,87540,Petrol/Gasoline/Bensin,2000000,25,1.2
+40,Daihatsu Ayla,2019,125000000,Automatic,45000,Petrol/Gasoline/Bensin,1371000,25,1.2
+41,Suzuki Ertiga DX,2012,256600000,Semi-Auto,70000,Petrol/Gasoline/Bensin,3507000,24,1.4
+42,Daihatsu Xenia ,2015,92000000,Manual,50000,Petrol/Gasoline/Bensin,1500000,22,1
+43,Toyota Kijang Innova,2008,105000000,Manual,150000,Petrol/Gasoline/Bensin,4000000,30,2
+44,Honda Brio,2014,95000000,Automatic,150000,Petrol/Gasoline/Bensin,2000000,25,1.2
+45,Daihatsu Ayla,2016,87000000,Manual,63000,Petrol/Gasoline/Bensin,1371000,22,1
+46,Toyota Avanza,2020,152000000,Manual,55949,Petrol/Gasoline/Bensin,2800000,23,1.3
+47,Toyota Avanza,2016,214000000,Semi-Auto,299762,Petrol/Gasoline/Bensin,2800000,23,1.3
+48,Daihatsu Xenia DLX VTTi,2015,109000000,Manual,98000,Petrol/Gasoline/Bensin,1371000,22,1
+49,Toyota Fortuner VRZ TRD LUX AT,2016,355000000,Manual,18000,Diesel/Solar,4890000,34,2.4
+50,Honda Jazz GE8,2013,140000000,Automatic,125421,Petrol/Gasoline/Bensin,2000000,22,1.5
+51,Toyota Fortuner ,2012,220000000,Semi-Auto,98758,Petrol/Gasoline/Bensin,4000000,35,2.5
+52,Honda CRV i-VTEC ,2013,199000000,Manual,90000,Petrol/Gasoline/Bensin,3200000,30,2
+53,Daihatsu Xenia VVTI,2017,135000000,Manual,245454,Petrol/Gasoline/Bensin,2450000,25,1.3
+54,Toyota Calya G,2017,128000000,Manual,94728,Petrol/Gasoline/Bensin,2000000,22,1.2
+55,Toyota Fortuner G,2011,180000000,Automatic,192452,Diesel/Solar,4890000,34,2.4
+56,Toyota Yaris J,2012,104000000,Manual,89560,Petrol/Gasoline/Bensin,3371000,25,1.5
+57,Toyota Innova G,2018,249000000,Manual,48000,Petrol/Gasoline/Bensin,4000000,30,2
+58,Honda Brio Satya E,2018,110000000,Manual,242252,Petrol/Gasoline/Bensin,2000000,25,1.2
+59,Daihatsu Terios TX ADVENTURE,2015,135000000,Manual,120000,Petrol/Gasoline/Bensin,2320000,22,1.5
+60,Honda Brio E,2023,108600000,Manual,110000,Petrol/Gasoline/Bensin,2000000,25,1.2
+61,Honda Brio E,2018,120000000,Manual,10000,Petrol/Gasoline/Bensin,2000000,25,1.2
+62,Toyota Calya E,2016,128000000,Manual,112412,Petrol/Gasoline/Bensin,2000000,22,1.2
+63,Honda Brio E,2014,95000000,Manual,10000,Petrol/Gasoline/Bensin,2000000,25,1.2
+64,Honda Brio Satya E,2018,120000000,Automatic,28000,Petrol/Gasoline/Bensin,2000000,25,1.2
+65,Toyota Kijang Innova,2007,80000000,Manual,85000,Petrol/Gasoline/Bensin,4000000,35,2.5
+66,Honda CRV Turbo Prestige,2013,230000000,Automatic,117000,Petrol/Gasoline/Bensin,3200000,22,1.5
+67,Toyota Avanza E,2014,110000000,Manual,112000,Petrol/Gasoline/Bensin,2800000,23,1.3
+68,Toyota Agya G,2018,120000000,Manual,55600,Petrol/Gasoline/Bensin,1725250,22,1.2
+69,Toyota Yaris E FL,2008,73000000,Automatic,25000,Petrol/Gasoline/Bensin,3371000,25,1.5
+70,Toyota Avanza G,2021,207150000,Manual,45730,Petrol/Gasoline/Bensin,2800000,23,1.3
+71,Daihatsu Ayla X,2018,138150000,Manual,65000,Petrol/Gasoline/Bensin,1371000,22,1
+72,Toyota Avanza G,2011,101500000,Manual,184542,Petrol/Gasoline/Bensin,2800000,23,1.3
+73,Mitsubishi Pajero Sport GLX,2022,522100000,Manual,354800,Diesel/Solar,4000000,35,2.5
+74,Daihatsu Xenia XI VVTI,2012,85000000,Manual,150000,Petrol/Gasoline/Bensin,1371000,22,1
+75,Daihatsu Ayla M,2015,89000000,Manual,70000,Petrol/Gasoline/Bensin,1371000,22,1
+76,Toyota Agya G,2016,98000000,Automatic,70000,Petrol/Gasoline/Bensin,1371000,20,1
+77,Daihatsu Ayla R,2018,115000000,Manual,70000,Petrol/Gasoline/Bensin,2000000,25,1.2
+78,Toyota Yaris E  ,2013,125000000,Manual,12000,Petrol/Gasoline/Bensin,3371000,25,1.5
+79,Honda Brio E,2018,191900000,Manual,70580,Petrol/Gasoline/Bensin,2000000,25,1.2
+80,Toyota Calya E,2018,164700000,Manual,12000,Petrol/Gasoline/Bensin,2000000,22,1.2
+81,Toyota Fortuner G,2008,185000000,Automatic,325421,Petrol/Gasoline/Bensin,4000000,37,2.7
+82,Toyota Kijang Innova V,2011,173000000,Automatic,124560,Petrol/Gasoline/Bensin,4000000,30,2
+83,Honda Mobilio E,2015,119000000,Automatic,94689,Petrol/Gasoline/Bensin,2867000,22,1.2
+84,Honda Jazz RS,2019,300000000,Manual,6432,Petrol/Gasoline/Bensin,2000000,22,1.5
+85,Daihatsu Terios TX ADVENTURE,2012,155000000,Automatic,112456,Petrol/Gasoline/Bensin,2300000,22,1.5
+86,Mitsubishi Pajero Sport DAKAR HI POWER,2010,285000000,Automatic,80000,Diesel/Solar,9431000,35,2.5
+87,Toyota Avanza G,2013,108000000,Manual,321546,Petrol/Gasoline/Bensin,2800000,23,1.3
+88,Toyota Yaris G,2008,70000000,Automatic,428000,Petrol/Gasoline/Bensin,3371000,25,1.5
+89,Toyota Calya E,2018,167600000,Manual,85000,Petrol/Gasoline/Bensin,2000000,22,1.2
+90,Suzuki Ertiga,2013,114999000,Automatic,107000,Petrol/Gasoline/Bensin,2800000,23,1.3
+91,Toyota Fortuner VRZ TRD LUX ,2018,440000000,Automatic,98754,Diesel/Solar,4000000,34,2.4
+92,Honda Brio S ,2018,162500000,Manual,90000,Petrol/Gasoline/Bensin,2000000,25,1.2
+93,Toyota Avanza E,2013,112000000,Manual,70000,Petrol/Gasoline/Bensin,2800000,23,1.3
+94,Toyota Avanza E,2022,242800000,Manual,57488,Petrol/Gasoline/Bensin,2800000,23,1.3
+95,Daihatsu Ayla R,2019,151850000,Manual,40368,Petrol/Gasoline/Bensin,2000000,25,1.2
+96,Toyota Yaris S GR SPORT 7 AB,2015,345000000,Manual,98525,Petrol/Gasoline/Bensin,9286000,25,1.5
+97,Daihatsu Xenia R,2019,165000000,Manual,138023,Petrol/Gasoline/Bensin,2800000,23,1.3
+98,Honda Brio E,2015,110000000,Manual,30491,Petrol/Gasoline/Bensin,2000000,25,1.2
+99,Daihatsu Ayla R,2019,98150000,Manual,68000,Petrol/Gasoline/Bensin,2800000,25,1.2
+100,Daihatsu Xenia DLX VTTi,2015,109000000,Manual,75000,Petrol/Gasoline/Bensin,1371000,22,1
+101,Daihatsu Ayla M,2016,125000000,Manual,79852,Petrol/Gasoline/Bensin,1371000,22,1
+102,Toyota Calya E,2012,110000000,Manual,350000,Petrol/Gasoline/Bensin,2000000,22,1.2
+103,Toyota Yaris J MC,2009,90000000,Manual,152041,Petrol/Gasoline/Bensin,3371000,25,1.5
+104,Toyota Avanza G,2012,100000000,Manual,98800,Petrol/Gasoline/Bensin,2800000,23,1.3
+105,Toyota Avanza Veloz,2014,140000000,Manual,92458,Petrol/Gasoline/Bensin,2899000,25,1.5
+106,Toyota Kijang Innova V,2013,429120000,Manual,87600,Petrol/Gasoline/Bensin,4000000,30,2
+107,Toyota Avanza Veloz,2016,288700000,Manual,70000,Petrol/Gasoline/Bensin,2800000,23,1.3
+108,Toyota Calya E,2017,105000000,Manual,10000,Petrol/Gasoline/Bensin,2000000,22,1.2
+109,Toyota Calya E,2016,128000000,Manual,62872,Petrol/Gasoline/Bensin,2000000,22,1.2
+110,Daihatsu Ayla M,2016,119000000,Manual,84560,Petrol/Gasoline/Bensin,1371000,22,1
+111,Honda Brio IVTEC E,2017,125900000,Manual,71000,Petrol/Gasoline/Bensin,2000000,25,1.2
+112,Nissan Grand Livina SV,2010,75000000,Manual,125481,Petrol/Gasoline/Bensin,2500000,25,1.5
+113,Daihatsi Ayla R,2018,114000000,Manual,75285,Petrol/Gasoline/Bensin,2000000,42,1.2
+114,Honda HRV S,2016,200000000,Manual,59625,Petrol/Gasoline/Bensin,2500000,22,1.5
+115,Toyota Avanza G,2004,50000000,Manual,105000,Petrol/Gasoline/Bensin,2800000,23,1.3
+116,Daihatsu Ayla X,2013,60000000,Automatic,120500,Petrol/Gasoline/Bensin,1371000,22,1
+117,Toyota Agya G,2015,75000000,Manual,112000,Petrol/Gasoline/Bensin,1371000,20,1
+118,Daihatsu Sigra R,2018,135650000,Manual,75000,Petrol/Gasoline/Bensin,2000000,25,1.2
+119,Daihatsu Sigra R,2018,135650000,Manual,75000,Petrol/Gasoline/Bensin,2000000,25,1.2
+120,Datsun GO + PANCA A,2016,68000000,Manual,158000,Petrol/Gasoline/Bensin,2000000,25,1.2
+121,Daihatsu Sigra M,2018,118800000,Manual,50000,Petrol/Gasoline/Bensin,1371000,28,1
+122,Suzuki Carry STANDAR PU,2012,57000000,Manual,35000,Petrol/Gasoline/Bensin,2500000,25,1.5
+123,Nissan X Trail ,2011,139000000,Automatic,125000,Petrol/Gasoline/Bensin,4000000,30,2
+124,Toyota Sienta V,2017,170000000,Manual,108000,Petrol/Gasoline/Bensin,3080000,25,1.5
+125,Daihatsu Sigra,2018,109900000,Automatic,54960,Petrol/Gasoline/Bensin,2000000,25,1.2
+126,Suzuki Carry Futura FD,2013,37000000,Manual,10000,Petrol/Gasoline/Bensin,2800000,25,1.5
+127,Honda Accord VTi,2007,128000000,Manual,114252,Petrol/Gasoline/Bensin,4000000,38,2.4
+128,Suzuki Carry Futura ST 150,2014,32000000,Manual,102580,Petrol/Gasoline/Bensin,2800000,25,1.5
+129,Daihatsu Sigra R DLX ,2023,165800000,Manual,105200,Petrol/Gasoline/Bensin,2000000,25,1.2
+130,Daihatsu Sigra ,2018,165800000,Manual,5000,Petrol/Gasoline/Bensin,2000000,25,1.2
+131,Honda BRV E CVT CKD,2017,165000000,Manual,10000,Petrol/Gasoline/Bensin,2800000,22,1.5
+132,Suzuki Carry Mega ,2013,40000000,Manual,65000,Diesel/Solar,2800000,25,1.5
+133,Honda Freed G83 ,2013,135000000,Automatic,258000,Petrol/Gasoline/Bensin,2800000,22,1.5
+134,Suzuki Carry Futura,2011,40000000,Manual,150000,Petrol/Gasoline/Bensin,2800000,25,1.5
+135,Suzuki Mega Carry PU AC PS,2019,83500000,Manual,96000,Petrol/Gasoline/Bensin,2800000,25,1.5
+136,Daiatsu Sigra ,2017,103000000,Manual,65000,Petrol/Gasoline/Bensin,2000000,22,1.2
+137,Nissan Serena Comfort Touring,2006,67500000,Automatic,345121,Petrol/Gasoline/Bensin,4000000,30,2
+138,Toyota Vios ,2007,80000000,Manual,350000,Petrol/Gasoline/Bensin,2800000,25,1.5
+139,Daihatsu Grand Max PS AC PU,2019,121000000,Manual,10000,Petrol/Gasoline/Bensin,2800000,22,1.5
+140,Mitsubishi Strada TRITON DOUBLE CABIN EXCEED,2019,469950000,Semi-Auto,98741,Diesel/Solar,4780000,35,2.5
+141,Mitsubishi Colt L 300 ,2019,188000000,Manual,75000,Diesel/Solar,3899000,35,2.5
+142,Mitsubishi T120SS 3-WAY WIDE DECK,2019,109000000,Manual,75421,Petrol/Gasoline/Bensin,2800000,25,1.5
+143,Mitsubishi T120SS T ,2013,109000000,Manual,150000,Diesel/Solar,2800000,25,1.5
+144,Honda CR-V,2012,5300000,Manual,24089,Petrol/Gasoline/Bensin,3200000,30,2
+145,Nissan March,2017,185800000,Manual,27469,Petrol/Gasoline/Bensin,2000000,22,1.2
+146,Toyota Etios Valco,2014,150000,Manual,36248,Petrol/Gasoline/Bensin,2000000,23,1.3
+147,Honda Brio,2020,165900000,Manual,12340,Petrol/Gasoline/Bensin,2000000,28,1.4
+148,Honda Jazz,2017,255000000,Automatic,37999,Petrol/Gasoline/Bensin,2000000,22,1.5
+149,Toyota Fortuner,2011,556,Manual,36100,Diesel/Solar,4000000,30,2
+150,Toyota Kijang Invova,2018,371000000,Manual,16444,Diesel/Solar,4000000,30,2
+151,Daihatsu Xenia,2015,218500000,Manual,25499,Petrol/Gasoline/Bensin,1500000,22,1
+152,Daihatsu Gran Max,2022,169000000,Manual,50584,Petrol/Gasoline/Bensin,3200000,22,1.5
+153,Suzuki Carry Futura,2016,150000000,Manual,18389,Petrol/Gasoline/Bensin,2000000,23,1.3
+154,Daihatsu Gran Max,2018,225000000,Manual,28321,Petrol/Gasoline/Bensin,3200000,22,1.5
+155,Toyota Avanza,2018,235000000,Automatic,14000,Petrol/Gasoline/Bensin,3200000,23,1.3
+156,Mitsubishi L300,2022,224000000,Manual,21000,Diesel/Solar,3200000,22,1.5
+157,Daihatsu Grand Max Delvan,2018,148000000,Manual,20219,Petrol/Gasoline/Bensin,2000000,25,1.3
+158,Isuzu Kijang Phanter,2016,287000000,Manual,8912,Diesel/Solar,3200000,30,2
+159,Toyota Avanza,2011,295000000,Automatic,28335,Petrol/Gasoline/Bensin,2000000,23,1.3
+160,Toyota Hilux Single Cap,2017,208800000,Manual,10089,Petrol/Gasoline/Bensin,3800000,30,2
